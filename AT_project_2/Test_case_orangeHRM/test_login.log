@@ -1,0 +1,512 @@
+2024-07-01 22:34:12,008 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-01 22:34:44,808 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-01 22:34:54,475 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-01 22:34:56,373 - Test_case_orangeHRM.Test_Admin_page - INFO - click forget password
+2024-07-01 22:34:58,211 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-01 22:34:58,218 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 10:49:48,814 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 10:49:50,513 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 10:49:56,788 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 10:50:08,624 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 10:50:10,909 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 10:50:12,460 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 10:50:21,221 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 10:50:26,613 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 11:00:17,736 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 11:00:19,468 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 11:00:25,939 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 11:00:42,287 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 11:00:44,497 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 11:00:46,061 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 11:00:50,109 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 11:00:54,652 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 11:03:39,426 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 11:03:40,980 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 11:03:45,941 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 11:04:02,182 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 11:04:04,418 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 11:04:05,884 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 11:04:09,993 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 11:04:15,298 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 11:04:15,298 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 11:04:15,298 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 11:04:15,298 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 11:04:15,298 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 11:04:15,298 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 11:04:15,298 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 11:04:15,298 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 11:04:15,298 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 11:04:15,298 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 11:04:15,298 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 11:04:15,299 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 11:09:29,136 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 11:09:30,607 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 11:09:34,274 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 11:09:37,344 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 11:09:37,344 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 11:09:37,344 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 11:09:37,946 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 11:09:37,948 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 11:09:40,136 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 11:09:41,594 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 11:09:45,231 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 11:09:49,906 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 11:09:49,906 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 11:09:49,906 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 11:09:49,906 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 11:09:49,906 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 11:09:49,906 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 11:09:49,906 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 11:09:49,907 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 11:09:49,907 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 11:09:49,907 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 11:09:49,907 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 11:09:49,907 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 11:30:52,599 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 11:30:54,298 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 11:30:57,811 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 11:31:01,305 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 11:31:01,305 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 11:31:01,305 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 11:31:01,896 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 11:31:01,898 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 11:31:04,099 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 11:31:05,650 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 11:31:09,299 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 11:31:14,546 - Test_case_orangeHRM.Test_Admin_page - INFO - menu'['Admin', 'PIM', 'Leave', 'Time', 'Recruitment', 'My Info', 'Performance', 'Dashboard', 'Directory', 'Maintenance', 'Claim', 'Buzz']' in display
+2024-07-02 11:31:14,546 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 11:31:14,546 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 11:31:14,546 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 11:31:14,546 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 11:31:14,546 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 11:31:14,546 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 11:31:14,546 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 11:31:14,546 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 11:31:14,546 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 11:31:14,546 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 11:31:14,546 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 11:31:14,547 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:13:18,153 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:13:20,559 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 12:13:26,209 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:13:28,146 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 12:13:28,146 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 12:13:28,146 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 12:13:29,999 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 12:13:30,000 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:13:32,248 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:13:33,721 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 12:13:41,130 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:13:43,145 - Test_case_orangeHRM.Test_Admin_page - INFO - Page title is correct
+2024-07-02 12:13:47,140 - Test_case_orangeHRM.Test_Admin_page - ERROR - Test failed: Not all menu options are displayed
+assert False
+ +  where False = <bound method AdminPage.validate_menu_options of <Page_Object_OrangeHRM.Admin_page.AdminPage object at 0x0000023393719D90>>()
+ +    where <bound method AdminPage.validate_menu_options of <Page_Object_OrangeHRM.Admin_page.AdminPage object at 0x0000023393719D90>> = <Page_Object_OrangeHRM.Admin_page.AdminPage object at 0x0000023393719D90>.validate_menu_options
+2024-07-02 12:13:47,411 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:13:49,659 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:13:51,332 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 12:14:00,404 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:14:05,831 - Test_case_orangeHRM.Test_Admin_page - INFO - menu'['Admin', 'PIM', 'Leave', 'Time', 'Recruitment', 'My Info', 'Performance', 'Dashboard', 'Directory', 'Maintenance', 'Claim', 'Buzz']' in display
+2024-07-02 12:14:05,831 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 12:14:05,831 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 12:14:05,832 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 12:14:05,832 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 12:14:05,832 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 12:14:05,832 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 12:14:05,832 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 12:14:05,833 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 12:14:05,833 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 12:14:05,833 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 12:14:05,833 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 12:14:05,836 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:24:52,846 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:24:54,369 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 12:25:04,957 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:25:08,667 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 12:25:08,668 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 12:25:08,668 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 12:25:09,898 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 12:25:09,903 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:25:12,338 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:25:13,856 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 12:25:26,836 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:25:29,184 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 12:25:33,835 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:25:36,092 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:25:37,664 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 12:25:46,907 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:25:51,722 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['Admin', 'PIM', 'Leave', 'Time', 'Recruitment', 'My Info', 'Performance', 'Dashboard', 'Directory', 'Maintenance', 'Claim', 'Buzz']
+2024-07-02 12:25:51,723 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 12:25:51,723 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 12:25:51,723 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 12:25:51,723 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 12:25:51,723 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 12:25:51,723 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 12:25:51,723 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 12:25:51,723 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 12:25:51,723 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 12:25:51,723 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 12:25:51,724 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 12:25:51,726 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:28:45,315 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:28:46,944 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 12:28:57,064 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:29:00,877 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 12:29:00,877 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 12:29:00,878 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 12:29:01,471 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 12:29:01,473 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:29:03,705 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:29:05,127 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 12:29:12,673 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:29:14,653 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 12:29:18,655 - Test_case_orangeHRM.Test_Admin_page - INFO - All menu options are displayed incorrectly
+2024-07-02 12:29:18,657 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:29:20,854 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:29:22,369 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 12:29:34,027 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:29:39,857 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['Admin', 'PIM', 'Leave', 'Time', 'Recruitment', 'My Info', 'Performance', 'Dashboard', 'Directory', 'Maintenance', 'Claim', 'Buzz']
+2024-07-02 12:29:39,858 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 12:29:39,858 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 12:29:39,858 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 12:29:39,858 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 12:29:39,858 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 12:29:39,858 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 12:29:39,858 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 12:29:39,859 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 12:29:39,859 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 12:29:39,859 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 12:29:39,859 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 12:29:39,861 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:42:18,342 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:42:20,193 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 12:42:28,364 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:42:31,952 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 12:42:31,953 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 12:42:31,954 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 12:42:32,543 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 12:42:32,546 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:42:34,769 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:42:36,266 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 12:42:49,567 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:42:51,734 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 12:42:54,261 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 12:42:55,142 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:42:57,356 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:42:58,912 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 12:43:05,507 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:43:10,910 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['Admin', 'PIM', 'Leave', 'Time', 'Recruitment', 'My Info', 'Performance', 'Dashboard', 'Directory', 'Maintenance', 'Claim', 'Buzz']
+2024-07-02 12:43:10,911 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 12:43:10,911 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 12:43:10,911 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 12:43:10,911 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 12:43:10,911 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 12:43:10,911 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 12:43:10,912 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 12:43:10,912 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 12:43:10,912 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 12:43:10,912 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 12:43:10,912 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 12:43:10,914 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:45:36,777 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:45:38,316 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 12:45:46,118 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:45:49,261 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 12:45:49,261 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 12:45:49,261 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 12:45:49,822 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 12:45:49,826 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:45:52,024 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:45:53,453 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 12:46:00,028 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:46:01,944 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 12:46:03,940 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 12:46:04,745 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:46:06,981 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:46:08,452 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 12:46:16,493 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:46:21,285 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['Admin', 'PIM', 'Leave', 'Time', 'Recruitment', 'My Info', 'Performance', 'Dashboard', 'Directory', 'Maintenance', 'Claim', 'Buzz']
+2024-07-02 12:46:21,286 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 12:46:21,286 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 12:46:21,286 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 12:46:21,286 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 12:46:21,287 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 12:46:21,287 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 12:46:21,287 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 12:46:21,287 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 12:46:21,288 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 12:46:21,288 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 12:46:21,288 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 12:46:21,290 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:49:24,809 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:49:26,383 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 12:49:38,473 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:49:41,920 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 12:49:41,921 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 12:49:41,921 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 12:49:42,526 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 12:49:42,530 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:49:44,820 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:49:46,354 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 12:49:54,226 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:49:56,308 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 12:49:58,504 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 12:49:59,325 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:50:01,488 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:50:03,054 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 12:50:14,426 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:50:20,155 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['Admin', 'PIM', 'Leave', 'Time', 'Recruitment', 'My Info', 'Performance', 'Dashboard', 'Directory', 'Maintenance', 'Claim', 'Buzz']
+2024-07-02 12:50:20,155 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 12:50:20,155 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 12:50:20,155 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 12:50:20,155 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 12:50:20,155 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 12:50:20,156 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 12:50:20,156 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 12:50:20,156 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 12:50:20,156 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 12:50:20,156 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 12:50:20,156 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 12:50:20,158 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:52:25,844 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:52:27,416 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 12:52:36,349 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:52:39,602 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 12:52:39,603 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 12:52:39,603 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 12:52:40,207 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 12:52:40,211 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:52:42,447 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:52:43,934 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 12:52:50,953 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:52:53,057 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 12:52:55,355 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 12:52:56,183 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:52:58,368 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:52:59,865 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 12:53:06,600 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:53:12,104 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['Admin', 'PIM', 'Leave', 'Time', 'Recruitment', 'My Info', 'Performance', 'Dashboard', 'Directory', 'Maintenance', 'Claim', 'Buzz']
+2024-07-02 12:53:12,105 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 12:53:12,105 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 12:53:12,105 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 12:53:12,105 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 12:53:12,105 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 12:53:12,105 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 12:53:12,106 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 12:53:12,106 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 12:53:12,106 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 12:53:12,106 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 12:53:12,106 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 12:53:12,108 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:56:20,626 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:56:22,199 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 12:56:29,680 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:56:32,440 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 12:56:32,440 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 12:56:32,440 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 12:56:34,418 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 12:56:34,420 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:56:36,709 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:56:38,265 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 12:56:47,247 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:56:49,312 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 12:56:50,996 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 12:56:51,581 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['User Management\nJob\nOrganization\nQualifications\nMore']
+2024-07-02 12:56:51,714 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:56:53,963 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:56:55,534 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 12:57:04,340 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:57:08,969 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['Admin', 'PIM', 'Leave', 'Time', 'Recruitment', 'My Info', 'Performance', 'Dashboard', 'Directory', 'Maintenance', 'Claim', 'Buzz']
+2024-07-02 12:57:08,969 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 12:57:08,969 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 12:57:08,969 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 12:57:08,969 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 12:57:08,970 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 12:57:08,970 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 12:57:08,970 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 12:57:08,970 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 12:57:08,970 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 12:57:08,970 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 12:57:08,970 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 12:57:08,973 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 12:59:44,179 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 12:59:45,724 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 12:59:56,854 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 12:59:59,016 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 12:59:59,018 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 12:59:59,018 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 13:00:01,206 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 13:00:01,208 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:00:03,535 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:00:05,049 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 13:00:13,374 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:00:16,851 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 13:00:19,276 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 13:00:19,891 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['User Management', 'Job', 'Organization', 'Qualifications', 'More']
+2024-07-02 13:00:19,891 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'User Management ' found on Admin page
+2024-07-02 13:00:19,891 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Job' found on Admin page
+2024-07-02 13:00:19,892 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Organization' found on Admin page
+2024-07-02 13:00:19,892 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Qualifications' found on Admin page
+2024-07-02 13:00:20,022 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:00:22,250 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:00:23,781 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 13:00:36,219 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:00:40,918 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['Admin', 'PIM', 'Leave', 'Time', 'Recruitment', 'My Info', 'Performance', 'Dashboard', 'Directory', 'Maintenance', 'Claim', 'Buzz']
+2024-07-02 13:00:40,919 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 13:00:40,919 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 13:00:40,919 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 13:00:40,919 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 13:00:40,919 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 13:00:40,919 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 13:00:40,919 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 13:00:40,920 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 13:00:40,920 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 13:00:40,920 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 13:00:40,920 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 13:00:40,922 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:05:20,555 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:05:22,083 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 13:05:33,737 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:05:36,863 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 13:05:36,863 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 13:05:36,863 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 13:05:37,507 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 13:05:37,510 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:05:39,747 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:05:41,248 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 13:05:49,602 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:05:51,754 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 13:05:53,846 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 13:05:54,457 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: '['User Management', 'Job', 'Organization', 'Qualifications', 'Nationalities', 'Corporate Branding', 'Configuration']'
+2024-07-02 13:05:54,458 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'User Management ' found on Admin page
+2024-07-02 13:05:54,458 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Job' found on Admin page
+2024-07-02 13:05:54,458 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Organization' found on Admin page
+2024-07-02 13:05:54,458 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Qualifications' found on Admin page
+2024-07-02 13:05:54,459 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Nationalities' found on Admin page
+2024-07-02 13:05:54,724 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:05:56,993 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:05:58,463 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 13:06:03,684 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:06:08,551 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['Admin', 'PIM', 'Leave', 'Time', 'Recruitment', 'My Info', 'Performance', 'Dashboard', 'Directory', 'Maintenance', 'Claim', 'Buzz']
+2024-07-02 13:06:08,552 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 13:06:08,552 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 13:06:08,552 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 13:06:08,552 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 13:06:08,552 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 13:06:08,552 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 13:06:08,553 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 13:06:08,553 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 13:06:08,553 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 13:06:08,553 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 13:06:08,553 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 13:06:08,556 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:11:40,552 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:11:42,150 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 13:11:52,609 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:11:54,554 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked forget password link
+2024-07-02 13:11:54,554 - Test_case_orangeHRM.Test_Admin_page - INFO - Entered user input
+2024-07-02 13:11:54,555 - Test_case_orangeHRM.Test_Admin_page - INFO - Clicked reset password link
+2024-07-02 13:11:56,477 - Test_case_orangeHRM.Test_Admin_page - INFO - Reset Password link sent successfully: Reset Password link sent successfully
+2024-07-02 13:11:56,480 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:11:58,699 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:12:00,164 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 13:12:10,807 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:12:12,859 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 13:12:14,811 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 13:12:15,812 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: '['User Management', 'Job', 'Organization', 'Qualifications', 'Nationalities', 'Corporate Branding', 'Configuration']'
+2024-07-02 13:12:15,812 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'User Management ' found on Admin page
+2024-07-02 13:12:15,813 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Job' found on Admin page
+2024-07-02 13:12:15,813 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Organization' found on Admin page
+2024-07-02 13:12:15,813 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Qualifications' found on Admin page
+2024-07-02 13:12:15,813 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Nationalities' found on Admin page
+2024-07-02 13:12:16,009 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:12:18,205 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:12:19,740 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 13:12:27,508 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:12:32,095 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['Admin', 'PIM', 'Leave', 'Time', 'Recruitment', 'My Info', 'Performance', 'Dashboard', 'Directory', 'Maintenance', 'Claim', 'Buzz']
+2024-07-02 13:12:32,096 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Admin' found on Admin page
+2024-07-02 13:12:32,096 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'PIM' found on Admin page
+2024-07-02 13:12:32,096 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Leave' found on Admin page
+2024-07-02 13:12:32,096 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Time' found on Admin page
+2024-07-02 13:12:32,096 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Recruitment' found on Admin page
+2024-07-02 13:12:32,096 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'My Info' found on Admin page
+2024-07-02 13:12:32,096 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Performance' found on Admin page
+2024-07-02 13:12:32,097 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Dashboard' found on Admin page
+2024-07-02 13:12:32,097 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Directory' found on Admin page
+2024-07-02 13:12:32,097 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Maintenance' found on Admin page
+2024-07-02 13:12:32,097 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Buzz' found on Admin page
+2024-07-02 13:12:32,100 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:12:56,273 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:12:57,719 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 13:13:06,070 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:13:08,482 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 13:13:10,354 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 13:13:10,838 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: '['User Management', 'Job', 'Organization', 'Qualifications', 'Nationalities', 'Corporate Branding', 'Configuration']'
+2024-07-02 13:13:10,839 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'User Management ' found on Admin page
+2024-07-02 13:13:10,839 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Job' found on Admin page
+2024-07-02 13:13:10,839 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Organization' found on Admin page
+2024-07-02 13:13:10,839 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Qualifications' found on Admin page
+2024-07-02 13:13:10,839 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Nationalities' found on Admin page
+2024-07-02 13:13:11,037 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:14:18,000 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:14:21,131 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 13:14:31,731 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:14:33,834 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 13:14:35,676 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 13:14:36,196 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: '['User Management', 'Job', 'Organization', 'Qualifications', 'Nationalities', 'Corporate Branding', 'Configuration']'
+2024-07-02 13:14:36,196 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'User Management ' found on Admin page
+2024-07-02 13:14:36,196 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Job' found on Admin page
+2024-07-02 13:14:36,196 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Organization' found on Admin page
+2024-07-02 13:14:36,196 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Qualifications' found on Admin page
+2024-07-02 13:14:36,197 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Nationalities' found on Admin page
+2024-07-02 13:14:36,637 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:16:13,811 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:16:15,386 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 13:16:25,097 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:16:27,063 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 13:16:28,726 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 13:16:29,272 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: '['User Management', 'Job', 'Organization', 'Qualifications', 'Nationalities', 'Corporate Branding', 'Configuration']'
+2024-07-02 13:16:29,272 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'User Management ' found on Admin page
+2024-07-02 13:16:29,272 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Job' found on Admin page
+2024-07-02 13:16:29,272 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Organization' found on Admin page
+2024-07-02 13:16:29,272 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Qualifications' found on Admin page
+2024-07-02 13:16:29,272 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Nationalities' found on Admin page
+2024-07-02 13:16:29,476 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:19:23,356 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:19:24,849 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 13:19:36,100 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:19:38,067 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 13:19:39,821 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 13:19:40,397 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['User Management', 'Job', 'Organization', 'Qualifications', 'Nationalities', 'Corporate Branding', 'Configuration']
+2024-07-02 13:19:40,397 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'User Management ' found on Admin page
+2024-07-02 13:19:40,399 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Job' found on Admin page
+2024-07-02 13:19:40,399 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Organization' found on Admin page
+2024-07-02 13:19:40,399 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Qualifications' found on Admin page
+2024-07-02 13:19:40,399 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Nationalities' found on Admin page
+2024-07-02 13:19:40,628 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:19:51,814 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:19:53,307 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 13:20:04,406 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:20:06,944 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 13:20:08,635 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 13:20:09,223 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['User Management', 'Job', 'Organization', 'Qualifications', 'Nationalities', 'Corporate Branding', 'Configuration']
+2024-07-02 13:20:09,224 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'User Management ' found on Admin page
+2024-07-02 13:20:09,224 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Job' found on Admin page
+2024-07-02 13:20:09,224 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Organization' found on Admin page
+2024-07-02 13:20:09,224 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Qualifications' found on Admin page
+2024-07-02 13:20:09,225 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Nationalities' found on Admin page
+2024-07-02 13:20:09,404 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 13:25:11,119 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 13:25:12,662 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_02
+2024-07-02 13:25:18,776 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 13:25:20,658 - Test_case_orangeHRM.Test_Admin_page - INFO - Title is correct
+2024-07-02 13:25:22,206 - Test_case_orangeHRM.Test_Admin_page - INFO - click the admin page
+2024-07-02 13:25:22,706 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu items displayed: ['User Management', 'Job', 'Organization', 'Qualifications', 'Nationalities', 'Corporate Branding', 'Configuration']
+2024-07-02 13:25:22,706 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'User Management ' found on Admin page
+2024-07-02 13:25:22,706 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Job' found on Admin page
+2024-07-02 13:25:22,707 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Organization' found on Admin page
+2024-07-02 13:25:22,707 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Qualifications' found on Admin page
+2024-07-02 13:25:22,707 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Nationalities' found on Admin page
+2024-07-02 13:25:22,707 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Corporate Branding' found on Admin page
+2024-07-02 13:25:22,707 - Test_case_orangeHRM.Test_Admin_page - INFO - Menu item 'Configuration' found on Admin page
+2024-07-02 13:25:22,709 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance

@@ -1,0 +1,8 @@
+2024-07-02 10:42:52,192 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 10:42:55,375 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_01
+2024-07-02 10:43:05,008 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 10:43:16,787 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
+2024-07-02 10:43:19,102 - Test_case_orangeHRM.Test_Admin_page - INFO - Setting up WebDriver instance
+2024-07-02 10:43:20,651 - Test_case_orangeHRM.Test_Admin_page - INFO - TC_PIM_03
+2024-07-02 10:43:28,304 - Test_case_orangeHRM.Test_Admin_page - INFO - Navigated to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2024-07-02 10:43:33,065 - Test_case_orangeHRM.Test_Admin_page - INFO - Tearing down WebDriver instance
